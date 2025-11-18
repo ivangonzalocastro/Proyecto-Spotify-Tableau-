@@ -29,7 +29,7 @@ Incluye:
 <img width="1420" height="803" alt="Ánimo y energia de las canciones" src="https://github.com/user-attachments/assets/153bcc0a-6261-489a-953a-70d6a7d7b790" />
 
 #### Análisis de las canciones por artista
-<img width="1426" height="807" alt="Analisis de las canciones por artista" src="https://github.com/user-attachments/assets/9b3bfe98-b7c3-4a44-bcec-e1eaffaae5f9" />
+![Cancion caracteristicas spotify](https://github.com/user-attachments/assets/c0921768-8002-4e3f-8c8c-f26ec3ad2c62)
 
 #### Estadísticas para músicos
 <img width="1428" height="824" alt="Estadísticas para músicos" src="https://github.com/user-attachments/assets/e8e8d3e8-edbc-44de-8677-f79423aaccad" />
