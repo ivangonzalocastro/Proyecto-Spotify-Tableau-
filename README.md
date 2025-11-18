@@ -58,3 +58,6 @@ Este proyecto incluye un uso intensivo de funcionalidades avanzadas de Tableau:
 * Las canciones más recientes tienden a tener mayor popularidad y aceptación, según los indicadores de Spotify.
 * Las características musicales como energía, ánimo y acusticidad muestran cambios marcados entre décadas.
 * La tonalidad y el modo musical también revelan variaciones interesantes vinculadas a géneros predominantes de cada época.
+
+## 📬 Contacto
+Podés encontrarme en [Mi Perfil de LinkedIn](www.linkedin.com/in/ivan-castro-gomez)
